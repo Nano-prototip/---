@@ -157,3 +157,4 @@ P.S.: если при запуске некоторые контейнеры б�
 <img width="1005" height="474" alt="1_3" src="https://github.com/user-attachments/assets/6584f836-ed53-407e-8b94-7b929d3e0e81" />
 
 #
+
